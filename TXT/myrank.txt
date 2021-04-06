@@ -14,3 +14,8 @@ ZCZC W02 blopblipblap
 ZCZC W03 calmeryan
 ZCZC W03 darren-ngoh
 ZCZC W03 BudiArb
+
+# Week 04
+ZCZC W04 bltszr
+ZCZC W04 cobrayyxx
+ZCZC W04 cornelita
