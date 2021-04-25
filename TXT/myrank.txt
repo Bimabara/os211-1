@@ -19,3 +19,8 @@ ZCZC W03 BudiArb
 ZCZC W04 bltszr
 ZCZC W04 cobrayyxx
 ZCZC W04 cornelita
+
+# Week 05
+ZCZC W05 bintangdom
+ZCZC W05 calmeryan
+ZCZC W05 Corfaitch
