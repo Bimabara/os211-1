@@ -29,3 +29,8 @@ ZCZC W05 Corfaitch
 ZCZC W06 blopblipblap
 ZCZC W06 cornelita
 ZCZC W06 BudiArb
+
+# Week 07
+ZCZC W07 darren-ngoh
+ZCZC W07 csq307
+ZCZC W07 cobrayyxx
