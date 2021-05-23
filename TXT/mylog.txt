@@ -68,3 +68,9 @@ ZCZC W08 300 L13 Assignment #3
 ZCZC W08 5 L14 Assignment #4
 ZCZC W08 10 L15 Assignment #5
 ZCZC W08 5 L16 Assignment #6
+ZCZC W09 60 L11 Assignment #1
+ZCZC W09 15 L12 Assignment #2
+ZCZC W09 600 L14 Assignment #4
+ZCZC W09 20 L15 Assignment #5
+ZCZC W09 10 L16 Assignment #6
+ZCZC W09 5 L17 Assignment #7

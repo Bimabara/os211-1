@@ -34,3 +34,8 @@ ZCZC W06 BudiArb
 ZCZC W07 darren-ngoh
 ZCZC W07 csq307
 ZCZC W07 cobrayyxx
+
+# Week 08
+ZCZC W08 cornelita
+ZCZC W08 calmeryan
+ZCZC W08 BudiArb
